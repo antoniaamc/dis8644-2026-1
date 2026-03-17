@@ -87,10 +87,22 @@ Version branch es una de desarrollo donde proximamente se puede agregar a la ver
 
 ---
 
-la imagenes que devemos poner: sin espacio, sin tildes, sin mayusculas y la manera de subirlas es ![cualquier texto aca]-(./imagenes/apuntesprueba.PNG) SIN EL GIÓN
+la imagenes que devemos poner: sin espacio, sin tildes, sin mayusculas y la manera de subirlas es ![texto alt para accesibilidad](./imagenes/nombre.extension)
 
                                                                                              el texto puede tener espacio  nombre del archivo exacto
 
 osea:
 
 es![cualquier texto aca](./imagenes/apuntesprueba.PNG)
+
+Un circuito es un lazo cerrado
+
+Un circuito electrico es un lazo cerrado con elementos resistivos 
+
+si se saca la resistencia de 1 de 2 leds se apaga porque se rompe el circuito
+
+**Componentes tienen un nombre: R1 y R2, D1 y D2**
+
+ese circuito tiene 9 volts, solo se nesecita 9 volts en el positivo y 0 volts en el negativo pero no importa como esté fisicamente mientras se cumpla con 
+
+osea que si quito R1 del D1 sique prendido el R2 del D2 porque solo se quitó el cicuito del D1
