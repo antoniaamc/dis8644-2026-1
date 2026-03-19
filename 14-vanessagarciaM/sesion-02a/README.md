@@ -1,5 +1,7 @@
 # sesion-02a
-## apuntes-clase 
+___
+
+## Apuntes clase 
 
 Para comenzar la clase, cada uno recibió su kit personal con las herramientas que vamos a usar en las actividades. 
 
@@ -35,7 +37,7 @@ Reconocimos los materiales conductores y aislantes:
 
 Aprendimos a leer una resistencia. 
 
-¿Cómo se hace?
+**¿Cómo se hace?**
 
 Los dos primeros colores indican los dígitos, el tercero la cantidad de ceros y el cuarto la tolerancia. Según la tabla de colores: 
 
@@ -72,23 +74,23 @@ Un circuito eléctrico es un lazo cerrado con al menos un elemento resistivo.
 
 ___ 
 
-### encargo-02a-lqxtlc
+### Encargo-02a lqxtlc
 
 Armar esquemas en protoboard y documentar qué ocurre con D al retirar cada R del circuito.
 
-ejercicio-1
+Ejercicio 1
 
 ![ejercicio1](./imagenes/ejercicio-1.jpeg)
 
 En este ejercicio se observó que, al retirar R1, se apagaban todos los led. En cambio, al retirar R3 y R5, los LED se mantenían encendidos, sin afectar el funcionamiento del circuito.
 
-ejercicio-2
+Ejercicio 2
 
 ![ejercicio2](./imagenes/ejercicio-2.jpeg)
 
 En este ejercicio se observó que solo R5 y R6 afectaban el funcionamiento del circuito: al retirar R5 se apagaba D1, y al retirar R6 se apagaba D3.
 
-ejercicio-3
+Ejercicio 3
 
 ![ejercicio3](./imagenes/ejercicio-3.jpeg)
 
