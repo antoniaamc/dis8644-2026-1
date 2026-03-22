@@ -141,5 +141,7 @@ La letra "B" indica que el cambio de resistencia es constante y proporcional al 
 
 **circuito integrado (IC):** es una abstracción de un circuito. También a estos se les llama chip, es un dispositivo semiconductor compacto y de alta eficiencia que contiene multitud de componentes electrónicos interconectados, como transistores, resistencias y condensadores, todos fabricados en una sola pieza de silicio.
 
+### Preguntas
+
 
 
