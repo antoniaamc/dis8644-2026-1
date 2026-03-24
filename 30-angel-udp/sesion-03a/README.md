@@ -82,3 +82,5 @@ el interruptor del esquema solo tiene 2 patas pero para colocarlo se usan 4 para
 
 dejamos en la prto board el más hacia Abajo dejamos el lado plano y dejamos arriba espacio para conectar
 
+### SW es Switch
+
