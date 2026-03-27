@@ -1,6 +1,6 @@
 # sesion-03b Viernes 27 marzo
 
-Sesión 01b: Introducción a Circuitos y Análisis de Esquemas
+Tema: Introducción a Circuitos y Análisis de Esquemas
 
 En esta sesión profundizamos en la lectura de esquemáticos electrónicos y el comportamiento de la energía en diferentes configuraciones de circuitos.
 
@@ -41,8 +41,24 @@ Para dos resistencias en paralelo, la fórmula simplificada que mencionaste (mul
 
 * **El 555 en configuración astable funciona como un oscilador que genera una señal periódica de onda cuadrada, alternando continuamente entre niveles alto y bajo.**
 * **Resitencia equivalente:** Es una resistencia imaginaria que tiene el mismo efecto que todas las resistencias de un circuito juntas. Es como si cambiaras un grupo de piezas por una sola que hace exactamente el mismo trabajo.
+* **o´eilly - willey - libros**
+* **Link libros:** https://docs.google.com/document/d/1gTPNpDtJLYWSLITBKJXJEM3XxiRnhSkOY_hltDzEYis/edit?usp=sharing
+* **Link conversión:** https://www.digikey.com/es/resources/conversion-calculators/conversion-calculator-resistor-color-code
+<img width="400" height="898" alt="Captura de pantalla 2026-03-27 110857" src="https://github.com/user-attachments/assets/b1f4ec71-2f1e-45fd-ab79-70cfeff5ae25" />
+<img width="380" height="934" alt="Captura de pantalla 2026-03-27 111123" src="https://github.com/user-attachments/assets/db52f551-42f6-4eda-a30f-ddb77377c0e2" />
+
+
+
+
+
+
+
 
 **Ejercicios:**
+
+https://github.com/user-attachments/assets/a6650c78-b97b-4c8c-8c9e-d1963e3b5500
+
+
 
 ## 4. Reflexiones de Clase
 
