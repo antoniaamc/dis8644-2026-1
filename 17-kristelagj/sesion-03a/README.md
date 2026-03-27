@@ -53,7 +53,7 @@ Con mi grupo tomamos la decisión de tener un proceso personal ya que la moviliz
 
 ![prueba]
 
-Cómo leer un esquemático
+- Cómo leer un esquemático
 
 Reconocer cada componente
 
@@ -62,7 +62,6 @@ Reconocer cada componente
 → **Valores:** definir qué es un componente, importante
 
  ↳ Resistores, capacitores e inductores: el valor nos dice cuántos ohm, farad o henrios tiene
- 
  ↳ Circuito integrado = nombre del chip (555)
  
 → **Nombre:** 1 o 2 letras y un número
