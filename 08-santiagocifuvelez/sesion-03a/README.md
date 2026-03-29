@@ -36,3 +36,5 @@ Cuando se utilizan parlantes en un circuito, es importante poder controlar la fr
 ![LDR y potenciometro](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-03a/imagenes/img3.jpg)
 
 ![lesctura esquemas](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-03a/imagenes/img4.jpg)
+
+## 3. Circuito ASTABLE
