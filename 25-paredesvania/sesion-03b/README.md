@@ -4,6 +4,8 @@
 
 Según Gemini es un oscilador de libre funcionamiento que genera una señal de onda cuadrada continua en su salida (pin 3), alternando entre niveles altos y bajos sin intervención externa. Es un montaje básico que utiliza dos resistencias y un condensador para determinar la frecuencia y el ciclo de trabajo, ideal para parpadeo de LEDs, generación de tonos y relojes. 
 
+![astable](./imagenes/astable.jpg)
+
 ## Circuito MONOESTABLE
 
 Según gemini es un temporizador de "un solo disparo" que genera un único pulso de salida en nivel alto (on) por un tiempo determinado al recibir un pulso de activación tras el tiempo programado, vuelve automáticamente a su estado estable bajo (off).
