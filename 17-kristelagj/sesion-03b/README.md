@@ -17,7 +17,7 @@ Departamento de estudios humanísticos (DEH)
 
 En esta clase nos dedicamos más a realizar circuitos, solo me resultó el primer ejercicio de la primera parte de la clase y lo pude resolver medianamente sola. Leí bien la mayoría de las partes, pero cabe destacar que aprendimos a realizar un circuito monoestable que sirve para mostrar luz y el astable es el que logra hacer sonido. 
 
-**Astable:** Un circuito astable es un multivibrador oscilador que no tiene estados estables, alternando continuamente entre un nivel lógico alto ("1") y bajo ("0") sin intervención externa. Genera una onda cuadrada continua, útil como generador de pulsos, reloj para circuitos lógicos o para parpadeo de LEDs (circuito que esta en constante parpadeo parpadeo. Puedes cambiar su frecuencia con los condensadores)
+**Astable:** Un circuito astable es un multivibrador oscilador que no tiene estados estables, alternando continuamente entre un nivel lógico alto ("1") y bajo ("0") sin intervención externa. Genera una onda cuadrada continua, útil como generador de pulsos, reloj para circuitos lógicos o para parpadeo de LEDs (circuito que esta en constante parpadeo parpadeo. Puedes cambiar su frecuencia con los condensadores) Este tipo de circuito se puede utilizar para proporcionar movimiento intermitente a un mecanismo encendiendo y apagando un motor a intervalos regulares.
 
 https://es.wikipedia.org/wiki/Astable#:~:text=En%20electr%C3%B3nica%2C%20un%20astable%20es,de%20ellos%20un%20tiempo%20determinado.
 
@@ -41,8 +41,10 @@ De esta experiencia, además de traer mi infancia a mi mente, me llamaron dos co
 
 -------------------------------------------------------
 
-Como me habia fijado 1 en los esquematicos realizado en clase, el 1 va a tierra, 8 va a cielo, 3 es output.
+Como me habia fijado 1 en los esquematicos realizado en clase, el 1 va a tierra, 8 va a cielo, 3 es output. Además en el dibujo del esquematico no esta escrito de la misma forma por un tema de comodidad y lectura
 
 ![555 foto](imagenes/555-and-556.gif).
+
+https://www.555-timer-circuits.com/
 
 
