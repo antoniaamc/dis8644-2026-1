@@ -6,7 +6,7 @@
 - pagina falstad https://www.falstad.com/circuit/
 - patas o pins 555 
 
-### unidades 
+### Unidades 
 - 0,00,000,000,001 Pico 
 - 0,000,000,001 Nano (unidad común de condensadores) unidad Faradios
 - 0,000,001 Micro (unidad común de condensadores)
@@ -17,7 +17,8 @@
 - 1.000.000.000 Giga
 - 1.000.000.000.000 Tera
 
-### falstad 
+### Falstad
+![Grabación de pantalla 2026-03-31 102457](https://github.com/user-attachments/assets/4cc38ba9-6726-4757-abe2-c6d8892fec5b)
 
 - click derecho para agregar componentes
 - escape para volver
@@ -29,4 +30,6 @@
 
 ### Pins 555 
 ![555-timer-tutorial-fig2](https://github.com/user-attachments/assets/dedd17ea-928b-48f9-95f1-bd98389b11ee)
+![Grabación de pantalla 2026-03-31 103133](https://github.com/user-attachments/assets/81110852-d578-4de0-9ea8-6f76d123ca87)
+
 
