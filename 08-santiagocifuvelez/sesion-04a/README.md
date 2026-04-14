@@ -12,6 +12,10 @@ El día de hoy vamos a ver en estas letras lo siguiente:
 ## 2. Profundización del circuitos astable y monostable con el chip 555, interconectando ambos en cascada.
 ![cascada](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-04a/imagenes/imgastableymonostable.jpg)
 
+<a href="https://drive.google.com/file/d/1s-TS1Z9ULEbuu8Uzo-hDDFqpuyOHnLCE/view?usp=drive_link" 
+  width="200">
+</a>
+
 ## 3. El encargo 04, respectivo a esta unidad.
 
 El dispositivo que voy a desarmar para hacer mi respectivo análisis, es un control remoto de tv antiguo, perteneciente a VTR.com
