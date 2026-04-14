@@ -58,6 +58,12 @@ https://github.com/user-attachments/assets/6e9d8837-71d4-41fa-8182-83874a938a13
 
 https://github.com/user-attachments/assets/a0b89e35-d19b-4ca2-adda-2f31af42bfd0
 
-## encargo
+## encargo-04a
 
-falta poner encargo
+1. destripar un dispositvo electrónico, documentar con texto e imagen el proceso, distinguir los elementos de la PCB que hemos estudiado como R y C y chips.
+2. documentar las conexiones entre la PCB y los componentes en la carcasa.
+3. escribir un texto de 3 párrafos explicando de forma poética imaginaria el funcionamiento especulativo del dispositivo electrónica, usando metáforas y analogías para describir el flujo de electricidad y la interacción de los componentes. el texto debe ser creativo y evocador, transmitiendo la esencia del dispositivo sin ser técnico, ni tampoco necesariamente real.
+
+### 1.
+
+
