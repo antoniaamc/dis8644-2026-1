@@ -41,6 +41,8 @@ Presentaciones en vivo lol:
 5. :orange_book::large_blue_circle:: Portada álbum *"Speaking Tongues (Deluxe Version)"* (1983).  
 6. :mount_fuji::partly_sunny:: Portada álbum *"Little Creatures"* (1985).  
 
+-----------------------------
+# ARREGLAR
    
 - st vincent: diseño d guitarra
 - 
@@ -60,6 +62,8 @@ En 2012, Byrne sacó un álbum colaborativo con St. Vincent, llamado Love This G
 - aunque reciba gestualidad: que tenga una salida de audio donde viven el amplificador y el parlante
 - transformar energia a traves del voltaje
 - k sea ordinario / belleza: contextual
+
+---------------------------------------------
 
 ## Secuenciadores
 
@@ -82,6 +86,8 @@ aaron
 contadores de decada
 secuanciador impelementado con **4017**
 
+--------------------------------------------------------------
+ 
 ## Código Binario  
 Método de representar datos o instrucciones utilizando únicamente los dígitos 0 y 1. Es el **idioma base** de las computadoras para comunicarse y almacenar información. Datos como texto, imágenes y sonido se transforman en código binario para poder ser procesados, cuando necesita realizar una tarea, esta se traduce al sistema binario y luego es ejecutada.
 
@@ -111,12 +117,15 @@ Esto es un sistema de **8 bits**: Cada columna (B3, B2, B1, B0) es un “interru
 
 Entonces, se suman los valores que tienen **1**(prendido).
 
-Resumen de Equivalencias
-00000000 = 0
-00000001 = 1
-00000010 = 2
+Resumen de Equivalencias  
+00000000 = 0  
+00000001 = 1  
+00000010 = 2  
 01000001 = 65 (corresponde a la letra 'A')
 
+--------------------------------
+
+# ARREGLAR
 
 * estudiar chips
 * (555, 4017, 
