@@ -11,14 +11,19 @@
   <br>
    <br>
    
-"Quienes no se mueven no notan sus cadenas" 
+"Quienes no se mueven no notan sus cadenas"   
 *—Rosa Luxemburg*
+
+<br>
+ <br>
+  <br>
+   <br>
 
 Hola! Bienvenidxs a la presentación de nuestro solemne 01.   
 Antes de partir, quiero agradecerles a mis compañeras por su esfuerzo y compromiso con el proyecto.
 Hicimos algo mágico.
 
-Veamos que veremos a continuación: 
+Veamos lo que nos espera a continuación:  
 
 **1.	Manual de construcción de “Precarias”.**  
   1.1	Esquemático.  
