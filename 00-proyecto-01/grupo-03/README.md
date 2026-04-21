@@ -1,14 +1,16 @@
-# grupo-01
+# grupo-03
 
 ## integrantes
 
-- nombres apellidos github
-- nombres apellidos github
-- nombres apellidos github
+- Catalina Balboa
+- Catalina Jeria
+- Angel Sabogal
 
 ## descripción del sintetizador realizado
 
-3 párrafos explicando el proyecto
+Construimos un sintetizador a partir de 4 secciones que describiremos como: Clock Generator construido a partir de un chip 555 que tiene la función de estabilizar (el C1 "condensador" y RV1 "potenciometro" controlan la frecuencia del clock) además de conectar el capacitor cerámico cerca del chip para brindarle mayor estabilidad a esta parte del circuito en concreto y posteriormente se le agregará también uno a cada chip del circuito con el fin de que tengan un circuito estable. la iguiente parte es el Secuenciador que se hace con el chip 4017
+
+
 
 imagen del sintetizador en su contexto
 
