@@ -4,7 +4,7 @@
 
 En esta sesión deje de pensar los circuitos solo como algo que funciona o no, yo solo me enfocaba en que encendiera o no, y no como un sistema que se use. Un circuito también es una interfaz.
 
-¿se entiende lo que está pasando cuando alguien interactúa con el sistema?
+¿se entiende lo que está pasando cuando alguien o yo interactúo con el sistema?
 
 ---
 
@@ -93,6 +93,7 @@ Estos controles permiten intervenir el tiempo y la secuencia, no solo ejecutarla
 ---
 
 ## trabajo en clase
+costó, pero se pudo.
 ![ejercioclaseee](./imagenes/ejercicioclaseee.jpeg)
 ![ejercioclasee](./imagenes/ejercicioclasee.jpeg)
 ## idea principal
