@@ -24,6 +24,10 @@ https://ammitechnologies.com/diferencias-montaje-smt-tht/
 
 ![tht smt](imagenes/tht-smt.png) 
 
+Una frase que me gusto escuchar y que la estuve reflexionando desde que vi el trabajo de misa la primera clase es que la placa es un soporte gráfico. Por ejemplo, jamás se me hubiera ocurrido que puede ser la tarjeta de presentación de una persona, además hablando de costos no es tan caro, es llamativo, tiene ese microdesign que me encanta.
+
+![micro](imagenes/micro.jpg)
+
 
 
 
