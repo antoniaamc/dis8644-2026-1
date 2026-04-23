@@ -90,7 +90,27 @@ En esta etapa, los transistores actúan como interruptores lógicos que seleccio
 
 ## proceso y resultados de osciladores y amplificador
 
-con chips 4093 y 386
+**Etapa 4: Generación de Tonos (Osciladores NAND CD4093)**
+
+En esta fase final, utilizamos el integrado CD4093 para convertir las señales de control en frecuencias audibles. Configuramos las cuatro compuertas NAND del chip para que funcionen como osciladores independientes para cada nota:
+
++ Configuración de Compuertas: Para habilitar los osciladores, puenteamos las entradas de cada compuerta: 1-2, 5-6, 8-9 y 12-13.
++ Entrada de Control (Desde Transistores): Las señales provenientes de los colectores (pata derecha) de los transistores se conectaron a las entradas de cada compuerta (Pin 1, 5, 8 y 12 respectivamente).
++ Sintonización por Capacitores (Lentejas): Instalamos capacitores hacia negativo en las entradas para definir el rango de frecuencia de cada oscilador:
+
+   Nota 1 (Pin 1): Capacitor 104 (100nF).
+   Nota 2 (Pin 5): Capacitor 103 (10nF).
+   Nota 3 (Pin 8): Capacitor 103 o 471 (según el tono deseado).
+  Nota 4 (Pin 12): Capacitor 471 (470pF).
+  
+* **Control Individual de Notas (Potenciómetros):** Para permitir el ajuste manual de cada tono, integramos 4 potenciómetros. En cada uno, unimos las patas 1 y 3 y conectamos:
+  
+   Desde la salida de la compuerta (Pines 3, 4, 10 u 11) hacia un extremo del potenciómetro.
+   Desde la pata central (2) hacia las entradas de la compuerta correspondiente (Ej: Pin 1-2, 5-6, etc.), cerrando el lazo de retroalimentación.
+
+Mezcla de Salida: Las salidas de audio de cada nota (Pines 3, 4, 10 y 11) se unificaron a través de resistencias de 1kΩ (marrón-negro-rojo) para proteger el circuito y preparar la señal para la etapa de amplificación o salida de audio.
+
+
 
 incluir texto e imágenes sobre cableado, pruebas, resultados obtenidos.
 
