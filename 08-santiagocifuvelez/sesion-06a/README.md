@@ -11,11 +11,13 @@ Hoy en clase vimos:
 Comencemos c:
 
 ## 1 Explicación sobre el “Schmitt Trigger”.  
-El Schmitt Trigger es un circuito comparador con histéresis. Se usa para convertir una señal de entrada ruidosa o lenta en una salida digital limpia y estable.
+El Schmitt Trigger es un circuito comparador con **histéresis**. Se usa para convertir una señal de entrada ruidosa o lenta en una salida digital limpia y estable.
 
-¿Y que es la histéresis?
+¿Y que es la **histéresis**?
 
 Es un sistema interno que tienen los chips, que les permite pelear con las imperfecciones del mundo real. Gráficamente, se vería algo así: (miremos el siguiente punto).
 
 ## 2 Como trabaja el “Schmitt Trigger”.
 ![histéresis](https://github.com/santiagocifuvelez/dis8644-2026-1/blob/main/08-santiagocifuvelez/sesion-06a/imagenes/histeresis-explanation.jpg)
+
+Como se puede observar anteriormente, tenemos un gráfico con unos umbrales que son como limites, que cuando el ruido los pasa (las imperfecciones del mundo real), se activa la señal principal y dice; “es momento de subir o de bajar” (las correcciones “utópicas”), y esto hace que el sonido que escuchemos sea más limpio y menos noisi o sucio. 
