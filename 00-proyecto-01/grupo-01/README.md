@@ -26,7 +26,7 @@ audio o video del sintetizador en acción
 ## Componentes
 
 En este proyecto utilizamos diferentes componentes cada uno para funciones especificas los cuales son:
-- Resistencias ( ): Se encargan de limitar el flujo de corriente eléctrica y establecer niveles de voltaje específicos dentro del circuito, las resistencias son fundamentales para proteger otros componentes más sensibles como los leds.
+- Resistencias: Se encargan de limitar el flujo de corriente eléctrica y establecer niveles de voltaje específicos dentro del circuito, las resistencias son fundamentales para proteger otros componentes más sensibles como los leds.
 - Diodos: Actúan como ¨válvulas¨ que permiten el paso de la corriente en una sola dirección. Se utilizan generalmente para proteger el circuito contra inversiones de polaridad o para rectificar señales.
 - Condensadores: Se encargan de almacenar energia temporalmente. 
 - Potenciometros: Son resistencias variables que permiten ajustar manualmente el nivel de resistencia. Se utilizan para controlar diferentes parámetros como el volumen del audio o la intensidad de la señal.
