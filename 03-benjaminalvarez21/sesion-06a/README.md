@@ -10,6 +10,8 @@ aca un video en youtube sobre el schmitt
  
 ## Trabajo en clase
 
+![circuito](./imagenes/sinte-misa-antiguo.png)
+
 En esta clase todo funciono perfecto, desde el 555 hasta el lm386. Hay algunos cambios ya que no teníamos suficientes potenciometros así que conectamos un fotorresistor.
 
 ![555 y 4017](./imagenes/555-y-4017.jpg)
