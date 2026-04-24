@@ -84,6 +84,21 @@ Reordenamos todos los cables por color, cambiamos los chips usados nes555, 4017 
 Rehicimos y probamos de todo con el circuito en la protoboard pero nunca nos resultó.
 
 
+![4017 y 555 funcionando](./imagenes/4017-prendido-cerca.gif)
+
+![Intendo 4stepsynth 1](./imagenes/555-4017-4093-386.jpg)
+
+![Intendo 4stepsynth 2](./imagenes/4093-386.jpg)
+
+EN PARTE ABAJO EN ERRORES Y COSAS:
+
+![4093 muerto](./imagenes/4093-pin-muerto.jpg)
+
+![Fallo soldadura potenciometros](./imagenes/caja-potenciometros-fallo.jpg)
+
+![Fallo brumarcas](./imagenes/test-fallo-brumarcas-1-1.jpg)
+
+
 ## Modificaciones realizadas a los circuitos originales
 
 En cuanto a modificaciónes de los circuitos base, en el Schmitt Trigger del pin 4-5-6 cambiamos el potenciómetro de 500k a 100k. El condensador conectado al pin 12 usamos un condensador de 47nf en vez de 470nf. Todos los diodos los remplazamos por diodos zener. En el filtro, cambiamos la resistencia de 39k por una de 47k y el potenciómetro de 100K a uno de 1M, más que nada por la accesibilidad a materiales en el laboratorio.
