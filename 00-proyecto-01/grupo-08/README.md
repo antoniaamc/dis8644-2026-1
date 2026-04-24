@@ -30,9 +30,9 @@ Con la base del circuito ya funcionando (clock y secuenciador) avanzamos hacia l
 
 Con la recomendación de Misa, empezamos a probar el circuito del sintetizador de manera aislada en otra protoboard. Probamos el funcionamiento del 4093 utilizando un solo potenciómetro, y también verificamos el amplificador 386 por separado, conectándolo directamente a la salida de audio. Este proceso permitió detectar algunos errores, identificamos que los condensadores en el circuito del 386 estaban mal conectados, también consideramos la recomendación de Misa de desconectar un LED porque interfiere en el funcionamiento.  
 
-Finalmente decidimos rehacer la etapa del sintetizador desde cero, además, se incorporó un condensador de 100uF en la etapa del 386, lo que ayudó a estabilizar la señal. Tras estos ajustes y una reorganización general del circuito, finalmente logramos obtener sonido en el parlante.
-
 ![foto1](./imagenes/foto1.jpg/) 
+
+Finalmente decidimos rehacer la etapa del sintetizador desde cero, además, se incorporó un condensador de 100uF en la etapa del 386, lo que ayudó a estabilizar la señal. Tras estos ajustes y una reorganización general del circuito, finalmente logramos obtener sonido en el parlante.
 
 ## modificaciones realizadas a los circuitos originales
 
@@ -90,6 +90,11 @@ Los errores más comunes en relación al armado fueron principalmente el uso de 
 La conexión incorrecta de componentes en el chip 386, específicamente los condensadores, fue un error importante porque impedía la salida de audio. Al corregir estas conexiones e incorporar el condensador de 100uF, se logró estabilizar la señal.
 
 A pesar de las dificultades técnicas logramos completar el circuito y obtener el sonido, lo que fue un avance importante para el grupo. El tener errores nos permitió comprender de mejor manera la relación entre las distintas etapas del sistema, clock, secuenciador, sintetizador y salida y evidenció la importancia de un montaje ordenado y colaborativo. 
+
+
+
+https://github.com/user-attachments/assets/d09eb3bf-f310-4373-b5a1-2eff0198916e
+
 
 
 ## conclusiones
