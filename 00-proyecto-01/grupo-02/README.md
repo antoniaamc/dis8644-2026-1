@@ -103,7 +103,7 @@ Finalmente, la señal llega al LM386, que es el amplificador de audio del circui
 | **Condensador 10uF** | [![Video 10uF](https://img.youtube.com/vi/yBmmYhGOpts/hqdefault.jpg)](https://youtube.com/shorts/yBmmYhGOpts) |
 | **Condensador 100uF** | [![Video 100uF](https://img.youtube.com/vi/fNEv66sdFlY/hqdefault.jpg)](https://youtu.be/fNEv66sdFlY) |
 
-Terminamos quedándonos con el condensador de 100 µF  ya que era el que se escuchaba mejor y más fuerte.
+Terminamos usando el condensador de 100 µF  ya que era el que se escuchaba mejor y más fuerte.
 
 ## modificaciones realizadas a los circuitos originales
 
@@ -174,9 +174,13 @@ El sistema se construyó utilizando cables Dupont tanto para el circuito princip
 
 texto
 
-imagen
+![resultados](./imagenes/1pez.png)
 
-video / audio
+![resultados](./imagenes/2pez.png)
+
+![resultados](./imagenes/3pez.png)
+
+[![Pescado Rabioso](https://img.youtube.com/vi/8zzBOV0qidQ/0.jpg)](https://www.youtube.com/watch?v=8zzBOV0qidQ)
 
 ## aprendizajes y errores
 
