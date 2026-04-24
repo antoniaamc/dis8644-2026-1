@@ -23,3 +23,7 @@ Luego por la tarde, en el LID, le agregamos al circuito un botón de encendido y
 Aquí intenté dimensionar cómo se vería en tamaño real y lo dibujé en mi texto de Hamlet de diseño escénico. Upsiii, pero era una impresión fallida  ( ദ്ദി ˙ᗜ˙ )
 
 ![foto](./imagenes/4bocetos.jpg)
+
+Fotito extra de mi ayudante Miko que se metió a la caja donde guardábamos las protoboards
+
+![foto](./imagenes/miko.png)
