@@ -50,6 +50,12 @@ n: medida común condensador no polarizado
 
 u: medida común condesador polarizado
 
+![esquematico1](./imagenes/esquematico1.jpg/)
+
+
+![esquematico2](./imagenes/esquematico2.jpg/)
+
+
 ### Huellas
 
 Doble click: huella > librería > buscar
@@ -64,9 +70,15 @@ LED_THT:LED_D5.0mm
 
 Capacitor_THT:CP_Radial_D5.0mm_P2.50mm
 
-En la clase le tome captura a Edge cut porque lo considere importante quería anotarlo pero no lo recuerdo, lo dejaré acá como recordatorio. 
+![pcbnew](./imagenes/pcbnew.jpg/)
+
+En la clase le tome captura a Edge cuts porque lo considere importante quería anotarlo pero no lo recuerdo, lo dejaré acá como recordatorio. 
+
+![edgecuts](./imagenes/edgecuts.jpg/)
 
 ### Resultado final : 
+
+https://github.com/user-attachments/assets/f1dd1bde-e54a-4e05-9cd8-cc6ac001694b
 
 La clase se me hizo súper divertida y me gustó mucho aprender a usar KiCad. Ya quiero seguir aprendiendo más cosas; por mientras seguiré practicando lo que nos enseñaron, pero en serio se me hace muy entretenido. Estoy muy emocionada por esta nueva unidad y por ver los resultados que vamos a obtener más adelante.
 
