@@ -1,5 +1,32 @@
 # sesion-08a
 
+Quise hacer una breve investigación sobre la recomendación que nos dieron acerca de Donna Haraway el día que presentamos el proyecto:
+
+### Dona Haraway 
+
+Profesora emérita estadounidense de los departamentos de Historia de la Conciencia y Estudios Feministas de la Universidad de California, Santa Cruz, además de una destacada investigadora en el campo de los estudios de ciencia y tecnología.
+
+Ha contribuido al cruce entre la tecnología de la información y la teoría feminista, siendo también una importante referente del ecofeminismo contemporáneo. Su trabajo critica el antropocentrismo, enfatiza los poderes de autoorganización de los procesos no humanos y explora las relaciones disonantes entre estos procesos y las prácticas culturales, replanteando así las fuentes de la ética.
+
+El Manifiesto Cyborg
+
+Para Donna Haraway, el cyborg no es solamente una figura como “Robocop”, sino una metáfora que busca destruir binarios opresivos como:
+
++ humano / animal
++ hombre / mujer
++ natural / artificial
+  
+Haraway plantea que, de cierta forma, ya somos cyborgs, porque gran parte de nuestra existencia depende de la tecnología y de nuestra relación con ella. Una de sus frases más conocidas es:
+
+“Preferiría ser un cyborg a ser una diosa”.
+
+Importancia de Donna Haraway
+
++ Feminismo: propone liberarse de los roles de género entendidos como algo estrictamente biológico.
++ Ecología: enseña que no somos dueños de la Tierra, sino compañeros y coexistentes junto a otras especies.
++ Tecnología: ayuda a comprender críticamente la inteligencia artificial y la biotecnología, reflexionando sobre cómo se relacionan con lo humano y lo no humano.
+
+
 ## Apuntes en clase
 
 ### KiCad
