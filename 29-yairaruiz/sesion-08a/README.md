@@ -2,7 +2,7 @@
 
 Quise hacer una breve investigación sobre la recomendación que nos dieron acerca de Donna Haraway el día que presentamos el proyecto:
 
-### Dona Haraway 
+### Donna Haraway 
 
 Profesora emérita estadounidense de los departamentos de Historia de la Conciencia y Estudios Feministas de la Universidad de California, Santa Cruz, además de una destacada investigadora en el campo de los estudios de ciencia y tecnología.
 
