@@ -4,51 +4,51 @@
 
 ### KiCad
 
-1- Dibujar esquemático (.kicad_sch) 
++ 1- Dibujar esquemático (.kicad_sch) 
 
-2- Asociar huellas a símbolos 
++ 2- Asociar huellas a símbolos 
 
-3- Abrir PCB New (para crear PCB), interprete del esquemático 
++ 3- Abrir PCB New (para crear PCB), interprete del esquemático 
 
-4- Definir tamaño de las pistas 
++ 4- Definir tamaño de las pistas 
 
-5- Repartir componentes físicamente 
++ 5- Repartir componentes físicamente 
 
-6- rutear componentes 
++ 6- rutear componentes 
 
-7- Ornamentar y exportar fabricación 
++ 7- Ornamentar y exportar fabricación 
 
-+ Quizás tenga que crear / descargar mis propias huellas y símbolos 
+ + Quizás tenga que crear / descargar mis propias huellas y símbolos 
 
 ### Comandos
 
-M: mover
++ M: mover
 
-C+D : duplicar 
++ C+D : duplicar 
 
-esc: mouse 
++ esc: mouse 
 
-G: mover componente seleccionado 
++ G: mover componente seleccionado 
 
-R: rotar 
++ R: rotar 
 
-X: reflejar 
++ X: reflejar 
 
-W: modo cable 
++ W: modo cable 
 
 ### Para no olvidar : 
 
-Potenciómetro : R_pot
++ Potenciómetro : R_pot
 
-X: marca de no conexión 
++ X: marca de no conexión 
 
-Batería: Battery_cell
++ Batería: Battery_cell
 
-Pitch : separación entre pines
++ Pitch : separación entre pines
 
-n: medida común condensador no polarizado
++ n: medida común condensador no polarizado
 
-u: medida común condesador polarizado
++ u: medida común condesador polarizado
 
 ![esquematico1](./imagenes/esquematico1.jpg/)
 
@@ -62,13 +62,13 @@ Doble click: huella > librería > buscar
 
 Asignar huellas: copiar y pegar en los mismos componentes.
 
-Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
++ Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal
 
-Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal
++ Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal
 
-LED_THT:LED_D5.0mm
++ LED_THT:LED_D5.0mm
 
-Capacitor_THT:CP_Radial_D5.0mm_P2.50mm
++ Capacitor_THT:CP_Radial_D5.0mm_P2.50mm
 
 ![pcbnew](./imagenes/pcbnew.jpg/)
 
