@@ -77,4 +77,6 @@ Todo esto surge porque he tenido la posibilidad de ir a muchos lugares nuevos de
 
 Para fundamentar esto, quiero dejarles este álbum de Mort Garson, llamado Mother Earth's Plantasia que me recomendaron mientras conversábamos sobre nuestros artistas favoritos y comenzó a sonar de fondo el primer tema de este álbum. 
 
+Me gusta poder expresarme con estos temas y que a pesar no ser de lo que fue visto en clases, son de la temática general del ramo. Soy una persona que se expresa mejor con las palabras escritas que declamar.
+
 https://www.youtube.com/watch?v=SZkR3PyHTs0&list=RDSZkR3PyHTs0&start_radio=1
